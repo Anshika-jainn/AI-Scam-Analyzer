@@ -14,7 +14,6 @@ The cleaned datasets are prepared for machine learning model training and furthe
 
 - SMS Spam Dataset
 - Email Fraud (Enron) Dataset
-- Additional scam-related datasets (if applicable)
 
 All datasets are cleaned, preprocessed, and structured for ML pipeline usage.
 

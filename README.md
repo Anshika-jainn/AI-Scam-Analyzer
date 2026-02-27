@@ -33,10 +33,12 @@ All datasets are cleaned, preprocessed, and structured for ML pipeline usage.
 AI-Scam-Analyzer
 
   data/
+  
         Cleaned_SMS_spam.csv
         sms_text_cleaned.csv
         
   notebooks/
+  
         SMS_Spam_cleaning.ipynb
         SMS_cleaning.ipynb
             

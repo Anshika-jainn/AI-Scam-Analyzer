@@ -29,6 +29,7 @@ All datasets are cleaned, preprocessed, and structured for ML pipeline usage.
 ## 📁 Project Structure
 
 '''
+
 AI-Scam-Analyzer
 
   data/
@@ -42,4 +43,5 @@ AI-Scam-Analyzer
   src/
 
   README.md
-'''
+ 
+ '''

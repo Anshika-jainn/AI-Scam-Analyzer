@@ -27,6 +27,7 @@ All datasets are cleaned, preprocessed, and structured for ML pipeline usage.
 - Final verification
 
 ## 📁 Project Structure
+
 '''
 AI-Scam-Analyzer
 
@@ -38,6 +39,7 @@ AI-Scam-Analyzer
         SMS_Spam_cleaning.ipynb
         SMS_cleaning.ipynb
             
-src/
-Readme.md
+  src/
+
+  README.md
 '''

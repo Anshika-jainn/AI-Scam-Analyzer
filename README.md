@@ -1,49 +1,43 @@
 # AI-Scam-Analyzer
 
-AI-based scam message detection system built for hackathon development.  
-This project focuses on structured multi-dataset preprocessing for scam detection.
+## 📌Overview
 
+An AI-based scam message detection project developed for a hackathon.
+This project focuses on cleaning and structuring multi-source scam datasets to prepare them for machine learning model training.
 
-## 📌 Project Overview
+## 🔍Key Highlights
 
-This project analyzes and cleans multiple scam-related datasets including SMS and email fraud data.  
-The cleaned datasets are prepared for machine learning model training and further AI integration.
+- **Structured preprocessing** of SMS Spam dataset
 
+- Cleaning and formatting of Enron Email fraud dataset
 
-## 📂 Datasets Used
+- Removal of high-null and irrelevant columns
 
-- SMS Spam Dataset
-- Email Fraud (Enron) Dataset
+- Duplicate record elimination
 
-All datasets are cleaned, preprocessed, and structured for ML pipeline usage.
+- Standardized and model-ready dataset preparation
 
-## ⚙️ Data Preprocessing Steps
+## 🛠️Tools Used
 
-- Missing value analysis
-- High-null column removal
-- Duplicate removal
-- Irrelevant column dropping
-- Column renaming & formatting
-- Final verification
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
 
-## 📁 Project Structure
+## 📂 Files
 
-'''
+### Cleaned Datasets
 
-AI-Scam-Analyzer
+- 'Cleaned_SMS_spam.csv'
+- 'sms_text_cleaned.csv'
 
-  data/
-  
-        Cleaned_SMS_spam.csv
-        sms_text_cleaned.csv
-        
-  notebooks/
-  
-        SMS_Spam_cleaning.ipynb
-        SMS_cleaning.ipynb
-            
-  src/
+### Notebooks
 
-  README.md
- 
- '''
+- 'SMS_Spam_cleaning.ipynb'
+- 'SMS_cleaning.ipynb'
+
+## **Note**
+
+> This project was developed as part of a hackathon.
+
+> My contribution focused on data cleaning and preprocessing for ML pipeline readiness.
